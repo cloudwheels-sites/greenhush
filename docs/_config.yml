@@ -13,13 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: Green Hush Horticulture
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
+  Gardening services in Bridport, Dorset  
+twitter_username: thegreenhush
 github_username: username
 minimal_mistakes_skin: default
 search: true
@@ -58,34 +56,34 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Green Hush Horticulture"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Green Hush Horticulture provides professional garden design, landscaping & maintenance services from our base in Dorset, UK. Fully qualified & insured."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://greenhush.com"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://facebook.com/thegreenhush"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://twitter.com/thegreenhush"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/thegreenhush"
 
 footer:
   links:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://facebook.com/thegreenhush"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://twitter.com/thegreenhush"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/thegreenhush"
 
 defaults:
   # _posts
