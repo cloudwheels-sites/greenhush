@@ -1,0 +1,19 @@
+Garden centres are continuing to suffer from lockdown restrictions which prevent them from opening as essential businesses.
+Read more on [BBC](https://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-52381806), [Daily Mail](https://www.dailymail.co.uk/news/article-8257085/Garden-centres-risk-having-dump-200million-plants-dont-open-soon-nurseries-warn.html)
+<!--stackedit_data:
+eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEdhcmRlbiBjZW50cmUgbG
+9ja2Rvd24gdHJvdWJsZXMgY29udGludWVcbmNhdGVnb3JpZXM6
+IG5ld3MsIGdlbmVyYWwgbmV3c1xuZXhjZXJwdDogPi1cbiAgIC
+BHYXJkZW4gY2VudHJlcyBhcmUgY29udGludWluZyB0byBzdWZm
+ZXIgZnJvbSB0aGUgZWZmZWN0cyBvZiBjb3JvbmF2aXJ1cyBsb2
+NrZG93biwgd2l0aCBtYW55IHBsYW50cyBnb2luZyB0byB3YXN0
+ZSBhcyBzdG9jayByZW1haW5zIHVuc29sZC5cbmltYWdlOlxuIC
+BmZWF0dXJlOiBodHRwczovL2kuZGFpbHltYWlsLmNvLnVrLzFz
+LzIwMjAvMDQvMjYvMDAvMjc2NTM0MzQtODI1NzA4NS1pbWFnZS
+1hLTNfMTU4Nzg1NzQ2OTAxNy5qcGdcbiAgdGh1bWI6IGh0dHBz
+Oi8vaS5kYWlseW1haWwuY28udWsvMXMvMjAyMC8wNC8yNi8wMC
+8yNzY1MzQzNC04MjU3MDg1LWltYWdlLWEtM18xNTg3ODU3NDY5
+MDE3LmpwZ1xuICBjcmVkaXQ6IENvcHlyaWdodCBEYWlseSBNYW
+lsIEltYWdlc1xuIiwiaGlzdG9yeSI6WzE4MDIyOTY5MywtMTEz
+NzI1MzgxNF19
+-->
